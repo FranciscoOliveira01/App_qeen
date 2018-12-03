@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="br.com.qeen" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Hoteis Aram</name>
+    <name>Qeen</name>
     <description>
-        Aram Hoteis - Faça sua reserva
+        Qeen
     </description>
     <author email="franciscoalves@velty.com.br" href="http://velty.com.br">
         Velty Digital
