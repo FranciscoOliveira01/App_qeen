@@ -2,7 +2,7 @@
 <widget id="br.com.qeen.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Qeen</name>
     <description>
-        Qeen
+        Qeen application 
     </description>
     <author email="franciscoalves@velty.com.br" href="http://velty.com.br">
         Velty Digital
@@ -13,5 +13,5 @@
     <icon src="icon.png" />
     <gap:plugin name="cordova-plugin-inappbrowser" source="npm"/>
     <gap:plugin name="cordova-plugin-whitelist" source="npm"/>
-    <preference name="android-minSdkVersion" value="26"/>
+    <preference name="android-minSdkVersion" value="18"/>
 </widget>
