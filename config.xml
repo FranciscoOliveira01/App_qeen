@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="br.com.app.qeen" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Qeen</name>
+    <description>
+        Aram Hoteis - Faça sua reserva
+    </description>
+    <author email="franciscoalves@velty.com.br" href="http://velty.com.br">
+        Velty Digital
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-navigation href="*"/>
+    <icon src="icon.png" />
+    <gap:plugin name="cordova-plugin-inappbrowser" source="npm"/>
+    <gap:plugin name="cordova-plugin-whitelist" source="npm"/>
+    <preference name="android-minSdkVersion" value="26"/>
+</widget>
