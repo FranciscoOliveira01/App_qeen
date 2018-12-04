@@ -13,5 +13,5 @@
     <icon src="icon.png" />
     <gap:plugin name="cordova-plugin-inappbrowser" source="npm"/>
     <gap:plugin name="cordova-plugin-whitelist" source="npm"/>
-    <preference name="android-minSdkVersion" value="18"/>
+    <preference name="android-minSdkVersion" value="26"/>
 </widget>
